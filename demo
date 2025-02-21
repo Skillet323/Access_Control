@@ -1,2 +1,5 @@
 demo some code here:
-{code}
+{
+	def demo(mode):
+		return model.fit(some_data)
+}
